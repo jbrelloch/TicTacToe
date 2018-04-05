@@ -3,7 +3,9 @@
 Coding homework for an interview with Mobilewalla
 
 Home Exercise (Backend Engineer)
+
 Description
+
 Your task is to implement is a text based 2-player tic-tac-toe game. The players would need to
 take turns at placing an X or an O on a 3X3 board.
 Link: https://en.wikipedia.org/wiki/Tic-tac-toe
@@ -28,46 +30,55 @@ Enter name for Player 1:
 Enter name for Player 2:
 >> Michael Doe
 
-
  1 | 2 | 3
------------
+ 
  4 | 5 | 6
------------
+ 
  7 | 8 | 9
+ 
 John Doe, choose a box to place an 'x' into:
 >> 1
+
  x | 2 | 3
------------
+ 
  4 | 5 | 6
------------
+ 
  7 | 8 | 9
+ 
 Michael Doe, choose a box to place an 'o' into:
 >> 2
+
  x | o | 3
------------
+ 
  4 | 5 | 6
------------
+ 
  7 | 8 | 9
+ 
 John Doe, choose a box to place an 'x' into:
 >> 4
+
  x | o | 3
------------
+ 
  x | 5 | 6
------------
+ 
  7 | 8 | 9
+ 
 Michael Doe, choose a box to place an 'o' into:
 >> 5
+
  x | o | 3
------------
+ 
  x | o | 6
------------
+ 
  7 | 8 | 9
+ 
 John Doe, choose a box to place an 'x' into:
 >> 7
+
  x | o | 3
------------
+ 
  x | o | 6
------------
+ 
  x | 8 | 9
  
 Congratulations John Doe! You have won.
